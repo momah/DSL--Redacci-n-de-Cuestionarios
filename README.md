@@ -27,10 +27,10 @@ Práctica: DSL: Redacción de Cuestionarios I (Sin Contexto)
 Se trata de escribir un programa que redacte cuestionarios. En principio, sólo soportaremos preguntas del tipo selección múltiple:
  
 1. ¿En que año Cristobal Colón descubrió América?
-      1 - 1942
-      2 - 1492
-      3 - 1808
-      4 - 1914
+1 - 1942
+2 - 1492
+3 - 1808
+4 - 1914
 Su respuesta:
  Debe definir una clase Quiz que soporte un pequeño lenguaje en el que las preguntas puedan ser especificadas. El constructor de Quiz va seguido de un bloque al que pasa como argumento el objeto e que representa al examen:
  
